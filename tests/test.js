@@ -1,17 +1,17 @@
-function taskCount(list){
-return list.length;
-}
+function runTests(){
 
-function testTaskCount(){
+let results = [];
 
 const tasks = ["task1","task2","task3"];
 
 if(taskCount(tasks) === 3){
-console.log("TEST PASSED");
+results.push("Test taskCount: PASSED");
 }else{
-console.log("TEST FAILED");
+results.push("Test taskCount: FAILED");
 }
 
+document.getElementById("testResults").innerHTML =
+results.join("<br>");
 }
 
-testTaskCount();
+runTests();

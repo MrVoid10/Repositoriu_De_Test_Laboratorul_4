@@ -8,3 +8,6 @@
 ## v1.1
 - adăugare ștergere task
 - adăugare test simplu
+
+## v1.2
+- integrarea testării în pagina web
