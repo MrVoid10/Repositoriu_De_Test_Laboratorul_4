@@ -2,15 +2,18 @@
 
 Aplicație simplă pentru gestionarea task-urilor.
 
+
 ## Tehnologii
 - HTML
 - CSS
 - JavaScript
 - Git
 
+
 ## Funcționalități
 - adăugare task
 - ștergere task
+
 
 ## Rulare
 

@@ -7,6 +7,7 @@ Aplicația permite utilizatorului să adauge și să elimine task-uri într-o li
 
 Scopul proiectului este demonstrarea utilizării unui sistem de control al versiunilor (Git) într-un proiect software mic, respectând bunele practici de organizare a repository-ului.
 
+
 ---
 
 ## 2. Scopul aplicației
@@ -19,6 +20,7 @@ Aplicația oferă o interfață simplă prin care utilizatorii pot:
 
 Proiectul servește drept exemplu pentru gestionarea codului sursă într-un mediu de dezvoltare software.
 
+
 ---
 
 ## 3. Funcționalități principale
@@ -30,6 +32,7 @@ Aplicația include următoarele funcționalități:
 - afișarea task-urilor într-o listă
 - eliminarea task-urilor din listă
 - validarea inputului (nu permite task-uri goale)
+
 
 ---
 
