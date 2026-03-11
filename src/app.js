@@ -27,4 +27,8 @@ input.value="";
 
 function taskCount(list){
 return list.length;
+
+
+
+
 }
