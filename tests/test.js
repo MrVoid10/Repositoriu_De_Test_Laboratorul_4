@@ -14,4 +14,8 @@ document.getElementById("testResults").innerHTML =
 results.join("<br>");
 }
 
+
+
+
+
 runTests();
